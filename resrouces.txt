@@ -1,0 +1,4 @@
+http://help.github.com
+http://git-scm.com/book
+http://teach.github.com
+
